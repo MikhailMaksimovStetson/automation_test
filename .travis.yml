@@ -1,4 +1,4 @@
 language: java
 rvm:
  - 10.0.1
-script: java HelloWorld.class
+script: java ./bin/automation/HelloWorld.class
