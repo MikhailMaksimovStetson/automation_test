@@ -1,4 +1,4 @@
 language: java
 rvm:
- - "10.0.1"
-script: java src/automation/HelloWorld.java
+ - 10.0.1
+script: java HelloWorld.java
