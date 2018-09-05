@@ -1,3 +1,2 @@
 language: java
 jdk: oraclejdk10
-sudo: false # faster builds
