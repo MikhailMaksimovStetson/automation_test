@@ -3,4 +3,4 @@ jdk: oraclejdk10
 sudo: false
 script: 
   - mvn package
-  - java -cp ./target/automation_test-0.0.1-SNAPSHOT.jar automation_test.App
+  - java -cp target/automation_test-0.0.1-SNAPSHOT.jar automation.HelloWorld
