@@ -1,14 +1,15 @@
 package test;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-class Testcases
+class TestCase
 {
 
     @Test
     void thisTestShouldPass()
     {
 	//fail("Not yet implemented");
+	System.out.println("running test case 1!");
     }
 
 }
