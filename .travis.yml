@@ -2,5 +2,5 @@ language: java
 jdk: oraclejdk10
 sudo: false # speeds up builds
 script: 
-  - mvn test
+  #- mvn test
   - java -cp target/automation_test-0.0.1-SNAPSHOT.jar automation.HelloWorld # runs jar file built by Maven
