@@ -1,5 +1,5 @@
 language: java
-jdk: oraclejdk10
+jdk: openjdk10
 sudo: false # speeds up builds
 script: 
   - mvn test # runs junit testcases
